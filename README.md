@@ -9,7 +9,7 @@ There is a total of eight chapters, as follows:
 
 ### Chapters
 * Chapter 1 - Basics of C Programming Language (26 problems)
-* Chapter 2 - Conditionals and Logical Operators
+* Chapter 2 - Conditionals and Logical Operators (34 problems)
 * Chapter 3 - Loops and Bit Operators
 * Chapter 4 - Functions and Pointers
 * Chapter 5 - Arrays and Matrices
