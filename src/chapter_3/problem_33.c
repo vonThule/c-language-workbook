@@ -32,7 +32,7 @@ int main() {
                 break;
         }
     }
-    printf("Number of empty apces: %d,\n", spaces);
+    printf("Number of empty spaces: %d,\n", spaces);
     printf("Number of dots: %d,\n", dots);
     printf("Number of interpunction signs: %d.\n", interp);
     return 0;
