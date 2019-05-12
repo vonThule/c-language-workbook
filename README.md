@@ -3,8 +3,7 @@ Solutions to problems from the "Introduction to programming - C Language Workboo
 
 ## Structure
 Solutions are organised into their respective chapter directories in the "src" directory.
-Text of each problem is located in the header comment of each problem file. Problems were translated into English from Serbian, the language of the book, and so some were changed a bit to accomodate the language and a wider audience (eg. references to local currency, and such).
-Problems that require verbous response were omitted, so problem numbering for some of the chapters may differ from the one found in the book.
+Text of each problem is located in the header comment of each problem file. Problems were translated into English from Serbian, the language of the book, and so some were changed a bit to accomodate the language (eg. references to local currency, and such).
 There is a total of eight chapters, as follows:
 
 ### Chapters
