@@ -1,13 +1,13 @@
 /*
- * Filename: problem_67.c
+ * Filename: problem_68.c
  * Project: C Language Workbook Problems
  * Section: Chapter 3
  * Author: Alexander Popp
  * Date created: 07/08/2020
- * Date last modified: 08/08/2020
+ * Date last modified: 12/08/2020
  * 
  * Description:
- *     Problem #67: Write a program that, for the given N, prints out the appropriate figure:
+ *     Problem #68: Write a program that, for the given N, prints out the appropriate figure:
  *     eg: N = 7
  *
  *     *******
